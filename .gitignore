@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+*.tar.gz
+extracted/
+checkpoints/
+cnn_features_full.npz
+.DS_Store
